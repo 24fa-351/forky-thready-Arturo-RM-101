@@ -1,96 +1,31 @@
+Pattern 2:
+** Pattern 2: creating 5 processes
+Process 1 (PID: 586627) beginning
+Process 1 (PID: 586627) started Process 2 (PID: 586628)
+Process 1 (PID: 586627) exiting
+Process 2 (PID: 586628) beginning
+Process 2 (PID: 586628) started Process 3 (PID: 586629)
+Process 2 (PID: 586628) exiting
+Process 3 (PID: 586629) beginning
+Process 3 (PID: 586629) started Process 4 (PID: 586630)
+Process 3 (PID: 586629) exiting
+Process 4 (PID: 586631) beginning
+Process 4 (PID: 586631) started Process 5 (PID: 586632)
+Process 4 (PID: 586631) exiting
+Process 5 (PID: 586632) beginning
+Process 5 (PID: 586632) exiting
 Pattern 1:
-** Pattern 1: creating 6 processes
-Process 1 (PID: 509251) beginning
-Process 1 (PID: 509251) exiting
-Pattern 1:
-** Pattern 1: creating 6 processes
-Process 4 (PID: 509254) beginning
-Process 4 (PID: 509254) exiting
-Pattern 1:
-** Pattern 1: creating 6 processes
-Process 5 (PID: 509255) beginning
-Process 5 (PID: 509255) exiting
-Pattern 1:
-** Pattern 1: creating 6 processes
-Process 6 (PID: 509256) beginning
-Process 6 (PID: 509256) exiting
-Pattern 1:
-** Pattern 1: creating 6 processes
-Process 2 (PID: 509252) beginning
-Process 2 (PID: 509252) exiting
-Pattern 1:
-** Pattern 1: creating 6 processes
-Process 3 (PID: 509253) beginning
-Process 3 (PID: 509253) exiting
-Pattern 1:
-** Pattern 1: creating 6 processes
-** Pattern 1: All processes created
+** Pattern 1: creating 5 processes
+Process 0 (PID: 602844) beginning
+Process 1 (PID: 602845) beginning
+Process 2 (PID: 602846) beginning
+Process 3 (PID: 602847) beginning
+Process 4 (PID: 602848) beginning
+Process 5 (PID: 602849) beginning
+Process 2 (PID: 602846) exiting
+Process 5 (PID: 602849) exiting
+Process 1 (PID: 602845) exiting
+Process 4 (PID: 602848) exiting
+Process 3 (PID: 602847) exiting
+Process 0 (PID: 602844) exiting
 Pattern 1: All children have exited
-
-Pattern 1:
-** Pattern 1: creating 6 processes
-Process 0 (PID: 509250) beginning
-Process 0 (PID: 509250) exiting
-
-Pattern 2:
-** Pattern 2: creating 6 processes
-Process 0 (PID: 508107) beginning
-Process 0 (PID: 508107) started Process 1 (PID: 508108)
-Process 1 (PID: 508163) beginning
-Process 1 (PID: 508163) started Process 2 (PID: 508164)
-Process 2 (PID: 508184) beginning
-Process 2 (PID: 508184) started Process 3 (PID: 508185)
-Process 3 (PID: 508205) beginning
-Process 3 (PID: 508205) started Process 4 (PID: 508206)
-Process 4 (PID: 508224) beginning
-Process 4 (PID: 508224) started Process 5 (PID: 508225)
-Process 5 (PID: 508277) beginning
-Process 5 (PID: 508277) started Process 6 (PID: 508278)
-Pattern 2:
-** Pattern 2: creating 6 processes
-Process 0 (PID: 508107) beginning
-Process 0 (PID: 508107) started Process 1 (PID: 508108)
-Process 1 (PID: 508163) beginning
-Process 1 (PID: 508163) started Process 2 (PID: 508164)
-Process 2 (PID: 508184) beginning
-Process 2 (PID: 508184) started Process 3 (PID: 508185)
-Process 3 (PID: 508205) beginning
-Process 3 (PID: 508205) started Process 4 (PID: 508206)
-Process 4 (PID: 508224) beginning
-Process 4 (PID: 508224) started Process 5 (PID: 508225)
-Process 5 (PID: 508224) exiting
-Pattern 2:
-** Pattern 2: creating 6 processes
-Process 0 (PID: 508107) beginning
-Process 0 (PID: 508107) started Process 1 (PID: 508108)
-Process 1 (PID: 508163) beginning
-Process 1 (PID: 508163) started Process 2 (PID: 508164)
-Process 2 (PID: 508184) beginning
-Process 2 (PID: 508184) started Process 3 (PID: 508185)
-Process 3 (PID: 508205) beginning
-Process 3 (PID: 508205) started Process 4 (PID: 508206)
-Process 4 (PID: 508205) exiting
-Pattern 2:
-** Pattern 2: creating 6 processes
-Process 0 (PID: 508107) beginning
-Process 0 (PID: 508107) started Process 1 (PID: 508108)
-Process 1 (PID: 508163) beginning
-Process 1 (PID: 508163) started Process 2 (PID: 508164)
-Process 2 (PID: 508184) beginning
-Process 2 (PID: 508184) started Process 3 (PID: 508185)
-Process 3 (PID: 508184) exiting
-Pattern 2:
-** Pattern 2: creating 6 processes
-Process 0 (PID: 508107) beginning
-Process 0 (PID: 508107) started Process 1 (PID: 508108)
-Process 1 (PID: 508163) beginning
-Process 1 (PID: 508163) started Process 2 (PID: 508164)
-Process 2 (PID: 508163) exiting
-Pattern 2:
-** Pattern 2: creating 6 processes
-Process 0 (PID: 508107) beginning
-Process 0 (PID: 508107) started Process 1 (PID: 508108)
-Process 1 (PID: 508107) exiting
-Pattern 2:
-** Pattern 2: creating 6 processes
-Process 0 (PID: 508106) exiting
